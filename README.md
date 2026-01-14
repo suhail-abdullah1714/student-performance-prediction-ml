@@ -36,3 +36,6 @@ The dataset contains the following features:
 
 ## Output
 The model outputs the R² score to evaluate prediction performance.
+Delete model.py
+
+
